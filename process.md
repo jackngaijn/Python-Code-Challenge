@@ -1,3 +1,9 @@
+# Github
+[Github link](https://github.com/jackngaijn/Python-Code-Challenge)
+
+# Video (Google Drive)
+[Google Drive Link](https://drive.google.com/file/d/1HEO7u87kVgKcA4opUiby9gStDcNQb-R2/view?usp=sharing)
+
 BFS 
 queue (first in first out)
 
@@ -49,3 +55,5 @@ from node 2 to node 0 / current node 0 / 3
 
 from node 0 to node 3 / current node 3 / 4
 5. 1111
+
+
